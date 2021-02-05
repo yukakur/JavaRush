@@ -17,6 +17,73 @@ public class Util {
     public static List<Jeans> getAllJeans() {
 
         //add your code here
+        abstract class AbstractJeans implements Jeans {
+            int id;
+            double price;
+            String TM;
+            int length;
+            int size;
+
+            public AbstractJeans(int id,  int length, int size, double price) {
+                this.id = id;
+                this.length = length;
+                this.size = size;
+                this.price = price;
+            }
+
+            @Override
+            public int getId() {
+                return id;
+            }
+
+            @Override
+            public double getPrice() {
+                return price;
+            }
+
+            @Override
+            public int getLength() {
+                return length;
+            }
+
+            @Override
+            public int getSize() {
+                return size;
+            }
+
+            @Override
+            public String toString() {
+                return getClass().getSimpleName() + "{" +
+                        "id=" + id +
+                        ", price=" + price +
+                        ", TM='" + TM + '\'' +
+                        ", length=" + length +
+                        ", size=" + size +
+                        '}';
+            }
+        }
+        class Denim extends AbstractJeans {
+
+            public Denim(int id, int length, int size, double price) {
+                super(id, length, size, price);
+            }
+
+            @Override
+            public String getTM() {
+                return "Denim";
+            }
+        }
+        class Levis extends AbstractJeans {
+
+            public Levis(int id, int length, int size, double price) {
+                super(id, length, size, price);
+            }
+
+            @Override
+            public String getTM() {
+                return "Levis";
+            }
+        }
 
         List<Jeans> allJeans = new LinkedList<>();
 
