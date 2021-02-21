@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84be81c8-f8f9-43a5-ad13-0dd98bd71dc5" name="Default Changelist" comment="" />
+    <list default="true" id="84be81c8-f8f9-43a5-ad13-0dd98bd71dc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/EditUserView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/FakeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/FakeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/MainModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/MainModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/ModelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/model/ModelData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/UsersView.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/UsersView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/out.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,12 +53,5 @@
       <updated>1606387328887</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1061" y="294" key="FileChooserDialogImpl" timestamp="1606675544550">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state x="1061" y="294" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1606675544550" />
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.20.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1606387358979" />
   </component>
 </project>
